@@ -1,0 +1,41 @@
+=== Authentication Policy
+
+https://github.com/gravitee-io/gravitee-policy-authentication[Source code],
+image:http://build.gravitee.io/jenkins/buildStatus/icon?job=gravitee-policy-authentication["Build status", link="http://build.gravitee.io/jenkins/job/gravitee-policy-authentication/"]
+
+==== Scope
+
+|===
+|onRequest |onResponse
+
+|
+|
+
+|===
+
+==== Description
+
+
+==== Configuration
+
+You can configure the policy with the following options :
+
+|===
+|Property |Required |Description |Type |Default
+
+|Todo
+|Todo
+|Todo
+|Todo
+|_todo_
+
+|===
+
+
+[source, json]
+.Sample
+----
+"gravitee-policy-authentication": {
+  "todo": true
+}
+----
