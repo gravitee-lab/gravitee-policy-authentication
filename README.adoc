@@ -1,9 +1,9 @@
-=== Authentication Policy
+= Authentication Policy
 
 https://github.com/gravitee-io/gravitee-policy-authentication[Source code],
 image:http://build.gravitee.io/jenkins/buildStatus/icon?job=gravitee-policy-authentication["Build status", link="http://build.gravitee.io/jenkins/job/gravitee-policy-authentication/"]
 
-==== Scope
+== Scope
 
 |===
 |onRequest |onResponse
@@ -13,10 +13,10 @@ image:http://build.gravitee.io/jenkins/buildStatus/icon?job=gravitee-policy-auth
 
 |===
 
-==== Description
+== Description
 
 
-==== Configuration
+== Configuration
 
 You can configure the policy with the following options :
 
