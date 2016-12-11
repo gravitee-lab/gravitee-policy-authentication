@@ -24,7 +24,7 @@
     <artifactId>gravitee-policy-authentication</artifactId>
     <version>0.2.0-SNAPSHOT</version>
 
-    <name>Gravitee Policy - Authentication</name>
+    <name>Gravitee.io APIM - Policy - Authentication</name>
     <description>Description of the Authentication Gravitee Policy</description>
 
     <parent>
